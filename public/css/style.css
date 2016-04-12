@@ -1,0 +1,16 @@
+.map-wrap {
+  max-width: 80%;
+  border: 3px solid #000;
+  margin: 10px auto
+}
+
+#map {
+  height: 300px;
+}
+
+/* Super easy to customize popups */
+.leaflet-popup-content-wrapper {
+  border-radius: 0;
+  padding: 5px;
+  background-color: #00ff00;
+  }

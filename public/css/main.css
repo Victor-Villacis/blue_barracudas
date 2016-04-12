@@ -1,0 +1,16 @@
+footer{
+  position:fixed;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+}
+.welcome1, .welcome2{
+  text-align: center;
+  color: black;
+}
+.search{
+  color:black;
+}
+#main{
+  background-image: url('/img/findyourpeople.jpeg')
+}
